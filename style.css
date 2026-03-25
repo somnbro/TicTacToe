@@ -14,7 +14,7 @@
 }
 #cellContainer{
     display: grid;
-    grid-template-columns: repeat(3, 150);
+    grid-template-columns: repeat(3, auto);
     width: 450px;
     margin: auto;
 }
